@@ -1,0 +1,74 @@
+ACE2
+spike
+IL-6
+CRP
+C-reactive protein
+TMPRSS2
+Mpro
+CD4
+angiotensin-converting enzyme 2
+CD8
+Spike
+S
+ACE
+RdRp
+N
+interleukin-6
+hACE2
+TNF-alpha
+AST
+ACE-2
+IL-10
+fibrinogen
+insulin
+albumin
+PLpro
+furin
+IFN-gamma
+IL-8
+MIS
+IL-1beta
+angiotensin-converting enzyme
+angiotensin converting enzyme 2
+age
+DPP4
+TNF
+ABO
+Angiotensin-converting enzyme 2
+IL6
+renin
+angiotensin II
+aid
+alanine aminotransferase
+apps
+CP
+cTnI
+nucleocapsid
+GI
+ORF8
+NLRP3
+IL-1
+CS
+CK
+VWF
+Age
+S-protein
+hip
+muL
+NF-kappaB
+IL-2
+TNFalpha
+interleukin 6
+ship
+ORF1ab
+thrombin
+RdRP
+GM-CSF
+Interleukin-6
+BNP
+zip
+CD147
+IL-17
+nsp1
+Ace2
+SAA
