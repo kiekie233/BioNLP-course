@@ -7,8 +7,8 @@ import pandas as pd
 with open('../preparing_data/covid_19_entity_result_abstract.txt', 'r', encoding = 'UTF-8') as file:
     abstract = file.read() # 读取文献abstract信息
 
-gene_list = pd.read_csv('gene_entity.txt', header = None) # 读取基因实体文件
-chemical_list = pd.read_csv('chemical_entity.txt', header = None) # 读取化学分子实体文件
+gene_list = pd.read_csv('../result/result_data/gene_entity.txt', header = None) # 读取基因实体文件
+chemical_list = pd.read_csv('../result/result_data/chemical_entity.txt', header = None) # 读取化学分子实体文件
 
 sentences = list()
 sentences = abstract.split('.') # 按英语句号分割摘要文件，每一句话作为一个独立的单位。
