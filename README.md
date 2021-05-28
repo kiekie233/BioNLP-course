@@ -41,7 +41,7 @@ This part is implemented by **Python** language, and the "pandas" package is nee
 Get_entity_relation.py # Entity relation analysis
 ```
 
-As a result, two file will be export through the python script, one is the co-sentence relation frequency table that record the count of co-sentence about the "gene" entity word and  the "chemical" entity word named "**relation_freq.txt**", the other is a file named "**relation.sif**" in "SIF" format to record the relation of to nodes, which will be used to draw the relation network about "gene" entities and "chemical" entities by **Cytoscape 3.8.2**
+As a result, two file will be export through the python script, one is the co-sentence relation frequency table that record the count of co-sentence about the "gene" entity word and  the "chemical" entity word named "**relation_freq.txt**", the other is a file named "**relation.sif**" in "SIF" format to record the relation of to nodes, which will be used to draw the relation network about "gene" entities and "chemical" entities by **Cytoscape 3.8.2**.
 
 ### Further research
 
