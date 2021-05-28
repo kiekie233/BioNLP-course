@@ -3,7 +3,7 @@ This is a project about BioNLP course including 7 tasks and 1 course project for
 
 ## Course project
 
-The course project use a BioNLP tools named PubTator combined with an analysis pipeline built by us in order to solve a text mining problem about Covid-19 research papers.
+The course project use a BioNLP tools named PubTator combined with an analysis pipeline built by us in order to solve a text mining problem about Covid-19 research papers. We have drawn the flow chart and upload it to describe the project pipeline.
 
 ### Data preparing and preprocessing
 
