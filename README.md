@@ -1,5 +1,5 @@
 # BioNLP-course
-This is a project about BioNLP course including 7 tasks and 1 course project for study.
+This is a repositories about BioNLP course including 7 tasks and 1 course project for study.
 
 ## Course project
 
