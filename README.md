@@ -29,7 +29,7 @@ This part is implemented by **R** language, and the "wordcloud2" package is need
 Rscript Get_entity_freq.R # Entity word frequency statistics
 ```
 
-Any way, this part will also export two list whose name is "**gene_entity.txt**" and "**chemical_entity.txt**" about "gene" and "chemical" entity in order to do next analysis.
+In addition, this part will also export two list whose name is "**gene_entity.txt**" and "**chemical_entity.txt**" about "gene" and "chemical" entity in order to do next analysis.
 
 ### Entity relation analysis
 
