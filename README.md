@@ -1,5 +1,11 @@
 # BioNLP-course
-This is a repository about BioNLP course including 7 tasks and 1 course project for study.
+This is a repository about BioNLP course including 7 tasks and 1 course project for study. You can get some information and reproduce the project by running the following code：
+
+```shel
+git clone https://github.com/kiekie233/BioNLP-course.git # get the full project
+```
+
+
 
 ## Course project
 
